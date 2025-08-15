@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Malik M Shahmeer Rashid
 
+
 🚀 Aspiring AI Engineer | Turning Data into Decisions
 
 I’m building a strong foundation in data analysis, programming, and problem-solving to prepare for an advanced career in Artificial Intelligence. My work blends Python, statistics, and machine learning with practical, real-world datasets to develop insights and solutions.
+
 
 🔭 What I’m Working On
 
@@ -14,6 +16,7 @@ Snake Game Twist – A modernized version of the classic Snake Game with improve
 
 Skill-building projects – NumPy, Pandas, Matplotlib, and Seaborn exercises.
 
+
 🌱 What I’m Learning
 
 Core AI and machine learning concepts (Supervised & Unsupervised learning)
@@ -21,6 +24,7 @@ Core AI and machine learning concepts (Supervised & Unsupervised learning)
 Deep learning frameworks (TensorFlow, PyTorch)
 
 Data engineering & backend integration for AI projects
+
 
 💬 Ask Me About
 
@@ -31,6 +35,7 @@ Data preprocessing & visualization
 Game development with Python (Pygame)
 
 Setting up projects for AI readiness
+
 
 📫 How to Reach Me
 
