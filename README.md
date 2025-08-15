@@ -10,6 +10,8 @@ AICP Internship – Exploring EDA, visualization, and statistical analysis.
 
 Pakistan Economic Analysis – Using economic indicators to predict trends and identify opportunities.
 
+Snake Game Twist – A modernized version of the classic Snake Game with improved visuals, a golden apple bonus, dynamic score display, and smooth gameplay using Python and Pygame.
+
 Skill-building projects – NumPy, Pandas, Matplotlib, and Seaborn exercises.
 
 🌱 What I’m Learning
@@ -25,6 +27,8 @@ Data engineering & backend integration for AI projects
 Python for data science
 
 Data preprocessing & visualization
+
+Game development with Python (Pygame)
 
 Setting up projects for AI readiness
 
