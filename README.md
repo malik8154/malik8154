@@ -34,7 +34,7 @@ LinkedIn: www.linkedin.com/in/malik-muhammad-shahmeer-rashid
 
 Email: malikmshahmeerrashid@gmail.com
 
-GitHub: github.com/malik8154
+GitHub: [github.com/malik8154](https://github.com/malik8154)
 
 <!--
 **malik8154/malik8154** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
