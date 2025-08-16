@@ -8,13 +8,13 @@ I’m building a strong foundation in data analysis, programming, and problem-so
 
 🔭 What I’m Working On
 
-AICP Internship – Exploring EDA, visualization, and statistical analysis.
+Developing AI-driven applications with a focus on machine learning and data science.
 
-Pakistan Economic Analysis – Using economic indicators to predict trends and identify opportunities.
+Building and training models for predictive analytics, classification, and recommendation tasks.
 
-Snake Game Twist – A modernized version of the classic Snake Game with improved visuals, a golden apple bonus, dynamic score display, and smooth gameplay using Python and Pygame.
+Strengthening skills in Python, NumPy, Pandas, Matplotlib, and Scikit-learn to design efficient AI solutions.
 
-Skill-building projects – NumPy, Pandas, Matplotlib, and Seaborn exercises.
+Gaining practical experience in end-to-end workflows: data preprocessing, model development, evaluation, and deployment.
 
 
 🌱 What I’m Learning
