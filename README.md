@@ -16,6 +16,8 @@ Strengthening skills in Python, NumPy, Pandas, Matplotlib, and Scikit-learn to d
 
 Gaining practical experience in end-to-end workflows: data preprocessing, model development, evaluation, and deployment.
 
+Creating ML Interview Q&A Bot – a Python-based bot that answers machine learning interview questions using semantic search with FAISS and sentence-transformers, and features an interactive Streamlit UI.
+
 
 🌱 What I’m Learning
 
@@ -24,6 +26,8 @@ Core AI and machine learning concepts (Supervised & Unsupervised learning)
 Deep learning frameworks (TensorFlow, PyTorch)
 
 Data engineering & backend integration for AI projects
+
+Semantic search, embeddings, and vector databases for real-world AI applications
 
 
 💬 Ask Me About
