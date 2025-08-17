@@ -59,6 +59,30 @@ Responsible AI practices • Strong communication • Critical thinking • Team
 
 ---
 
+### 📌 Pinned Projects  
+
+#### 🎮 Snake Game Twist  
+A modern twist on the classic Snake Game built with **Python** and **Pygame**.  
+Features:  
+- Interactive start screen with player name input  
+- Golden Apple for bonus points  
+- Smooth gameplay with improved visuals and collision detection  
+
+🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
+
+---
+
+#### 🤖 ML Interview Q&A Bot  
+An AI-powered chatbot designed to assist with **ML interview preparation**, built using **FAISS**, **sentence-transformers**, and **Streamlit**.  
+Features:  
+- Semantic search for accurate question-answer retrieval  
+- Fast and lightweight with vector database support  
+- Interactive UI for smooth user experience  
+
+🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
+
+---
+
 ### 📊 GitHub Stats  
 
 <p align="center">
