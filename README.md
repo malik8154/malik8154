@@ -8,7 +8,7 @@ I build intelligent solutions that transform raw data into meaningful insights. 
 
 ### 🛠️ Skills & Expertise
 
-**Programming & Scripting**
+**Programming & Scripting** :
 Python • SQL • HTML • CSS • JavaScript • React
 
 **Machine Learning & AI**
