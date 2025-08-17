@@ -2,9 +2,10 @@
 
 🚀 **Aspiring AI Engineer | Turning Data into Decisions**
 
-### 🐍 Contribution Snake (dynamic)
+### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/malik8154/malik8154/output/snake.svg" alt="contribution-snake"/>
+![snake animation](https://raw.githubusercontent.com/malik8154/malik8154/output/snake.svg)
+
 
 I build intelligent solutions that transform raw data into meaningful insights. With a strong foundation in programming, data science, and machine learning, I create AI-driven applications that solve real-world challenges. My work blends hands-on experience with Python, statistics, and advanced ML techniques to deliver scalable and impactful results.
 
