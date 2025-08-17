@@ -11,25 +11,25 @@ I build intelligent solutions that transform raw data into meaningful insights. 
 **Programming & Scripting** :
 Python • SQL • HTML • CSS • JavaScript • React
 
-**Machine Learning & AI**
+**Machine Learning & AI** :
 Predictive modeling • Classification • Clustering • Sentiment analysis • Text classification
 
-**ML & Data Science Libraries**
+**ML & Data Science Libraries** :
 Scikit-learn • TensorFlow (basic) • Keras (basic) • Pandas • NumPy • NLTK
 
-**Data Handling & Databases**
+**Data Handling & Databases** :
 PostgreSQL • MongoDB
 
-**Mathematics & Statistics**
+**Mathematics & Statistics** :
 Linear algebra • Calculus • Probability • Hypothesis testing • Regression • Statistical inference
 
-**Data Visualization**
+**Data Visualization** :
 Matplotlib • Seaborn
 
-**Development Tools & Practices**
+**Development Tools & Practices** :
 Git • Agile methodology • Clean code structuring • Documentation standards
 
-**Ethics & Communication**
+**Ethics & Communication** :
 Responsible AI practices • Strong communication • Critical thinking • Team collaboration
 
 ---
