@@ -1,0 +1,25 @@
+name: Generate contribution snake
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: platane/commit-snake-action@v1
+        with:
+          output: output/snake.svg
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update contribution snake
+          branch: main
