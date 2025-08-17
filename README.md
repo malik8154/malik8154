@@ -2,11 +2,6 @@
 
 🚀 **Aspiring AI Engineer | Turning Data into Decisions**
 
-### 🐍 Contribution Snake
-
-![snake animation](https://raw.githubusercontent.com/malik8154/malik8154/output/snake.svg)
-
-
 I build intelligent solutions that transform raw data into meaningful insights. With a strong foundation in programming, data science, and machine learning, I create AI-driven applications that solve real-world challenges. My work blends hands-on experience with Python, statistics, and advanced ML techniques to deliver scalable and impactful results.
 
 ---
@@ -65,70 +60,6 @@ Responsible AI practices • Strong communication • Critical thinking • Team
 * Game development with Python (Pygame)
 * Preparing code and repositories for AI readiness
 
----
-
-### 📊 Visuals & Profile Widgets
-
-**Skill badges**
-
-```
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-```
-
-**GitHub statistics (add these images to your README)**
-
-```
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malik8154&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malik8154&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malik8154&theme=tokyonight)
-```
-
----
-
-### 🐍 Contribution Snake (dynamic)
-
-Add a dynamic "contribution snake" to your profile to create a playful, eye-catching animation across your contribution grid. Below are the steps and a ready-to-use GitHub Actions workflow that generates `output/snake.svg` automatically.
-
-**1) Add this `<img src="https://raw.githubusercontent.com/malik8154/malik8154/output/snake.svg" alt="contribution-snake" />` to your README where you want the snake to appear:**
-
-```html
-<img src="https://raw.githubusercontent.com/malik8154/malik8154/output/snake.svg" alt="contribution-snake" />
-```
-
-**2) Create the GitHub Actions workflow file** at `.github/workflows/snake.yml` in your repo with the following content:
-
-```yaml
-name: Generate contribution snake
-on:
-  schedule:
-    - cron: '0 0 * * *' # daily
-  push:
-    branches:
-      - main
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate contribution snake
-        uses: platane/commit-snake-action@v1
-        with:
-          output: output/snake.svg
-
-      - name: Commit and push
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Update contribution snake
-          branch: main
-```
 ---
 
 ### 📫 Connect
