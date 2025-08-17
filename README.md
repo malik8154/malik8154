@@ -1,81 +1,96 @@
-# Hi there 👋 I'm Malik M Shahmeer Rashid
+# Hi there 👋 I'm Malik M Shahmeer Rashid  
 
-🚀 **Aspiring AI Engineer | Turning Data into Decisions**
+🚀 **Aspiring AI Engineer | Turning Data into Decisions**  
 
-I build intelligent solutions that transform raw data into meaningful insights. With a strong foundation in programming, data science, and machine learning, I create AI-driven applications that solve real-world challenges. My work blends hands-on experience with **Python, statistics, and advanced ML techniques** to deliver scalable and impactful results.
+I design intelligent solutions that transform raw data into meaningful insights. With a strong foundation in programming, data science, and machine learning, I develop AI-driven applications that address real-world challenges. My expertise includes **Python, statistics, and advanced ML techniques**, enabling me to deliver scalable and impactful results.  
 
 ---
 
-### 🛠️ Skills & Expertise
+### 🛠️ Skills & Expertise  
 
 **Programming & Scripting**  
-
-Python • SQL • HTML • CSS • JavaScript • React
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
 
 **Machine Learning & AI**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![NLTK](https://img.shields.io/badge/NLTK-154D2E?logo=python&logoColor=white)  
 
-Predictive modeling • Classification • Clustering • Recommendation systems • Sentiment analysis • Text classification • Intelligent automation
-
-**ML & Data Science Libraries**  
-
-Scikit-learn • TensorFlow (basic) • Keras (basic) • PyTorch (basic) • Pandas • NumPy • NLTK  
-
-**Computer Vision & NLP**  
-
-Image recognition • Object detection • Language modeling • Semantic search • Embeddings
-
-**Data Handling & Databases**  
-
-PostgreSQL • MongoDB
-
-**Mathematics & Statistics**  
-
-Linear algebra • Calculus • Probability • Hypothesis testing • Regression • Statistical inference
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white)  
 
 **Data Visualization**  
-
-Matplotlib • Seaborn
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-5A9?logo=python&logoColor=white)  
 
 **Development Tools & Practices**  
-
 Git • Agile methodology • Clean code structuring • Documentation standards
 
 **Ethics & Communication**  
-
 Responsible AI practices • Strong communication • Critical thinking • Team collaboration
 
+
+
+
 ---
 
-### 🔭 Current Work
+### 🔭 Current Work  
 
-- Developing **AI-driven applications** focused on machine learning and data science  
+- Developing **AI-driven applications** in machine learning and data science  
 - Training models for **predictive analytics, classification, and recommendation tasks**  
-- Strengthening skills in **Python, NumPy, Pandas, Matplotlib, and Scikit-learn**  
 - Practicing **end-to-end ML workflows**: data preprocessing → model development → evaluation → deployment  
-- Building an **ML Interview Q&A Bot** — a Python-based assistant using FAISS, sentence-transformers, and Streamlit  
+- Building an **ML Interview Q&A Bot** using FAISS, sentence-transformers, and Streamlit  
 
 ---
 
-### 🌱 Learning & Growth
+### 🌱 Learning & Growth  
 
 - Core AI & ML concepts (Supervised & Unsupervised learning)  
 - Deep learning frameworks (**TensorFlow, PyTorch**)  
 - Data engineering & backend integration for AI systems  
-- Semantic search, embeddings & vector databases  
+- Semantic search, embeddings, and vector databases  
 
 ---
 
-### 💬 Ask Me About
+### 💬 Ask Me About  
 
 - Python for data science  
 - Data preprocessing & visualization  
-- NLP & Computer Vision basics  
+- NLP & Computer Vision fundamentals  
 - Game development with Python (Pygame)  
-- Preparing code and repositories for AI readiness  
+- Preparing repositories for AI readiness  
 
 ---
 
-### 📫 Connect
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malik8154&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malik8154&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik8154&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect  
 
 - LinkedIn: [linkedin.com/in/malik-muhammad-shahmeer-rashid](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid)  
 - Email: [malikmshahmeerrashid@gmail.com](mailto:malikmshahmeerrashid@gmail.com)  
@@ -83,4 +98,4 @@ Responsible AI practices • Strong communication • Critical thinking • Team
 
 ---
 
-⚡ *“AI is not only about algorithms — it’s about building systems that empower people and teams to make better decisions.”*
+⚡ *“AI is not only about algorithms — it’s about building systems that empower people and teams to make better decisions.”*  
