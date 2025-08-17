@@ -2,6 +2,10 @@
 
 🚀 **Aspiring AI Engineer | Turning Data into Decisions**
 
+### 🐍 Contribution Snake (dynamic)
+
+<img src="https://raw.githubusercontent.com/malik8154/malik8154/output/snake.svg" alt="contribution-snake" />
+
 I build intelligent solutions that transform raw data into meaningful insights. With a strong foundation in programming, data science, and machine learning, I create AI-driven applications that solve real-world challenges. My work blends hands-on experience with Python, statistics, and advanced ML techniques to deliver scalable and impactful results.
 
 ---
@@ -124,12 +128,6 @@ jobs:
           commit_message: Update contribution snake
           branch: main
 ```
-
-> Notes:
->
-> * The action `platane/commit-snake-action` draws the snake image based on your contributions. If you prefer another snake style, you can swap the action or customize parameters as described in that action's README.
-> * Make sure your default branch is `main` or adjust the workflow accordingly.
-
 ---
 
 ### 📫 Connect
