@@ -66,7 +66,9 @@ A modern twist on the classic Snake Game built with **Python** and **Pygame**.
 Features:  
 - Interactive start screen with player name input  
 - Golden Apple for bonus points  
-- Smooth gameplay with improved visuals and collision detection  
+- Smooth gameplay with improved visuals and collision detection
+
+![Snake Game Preview](https://raw.githubusercontent.com/malik8154/Snake-Game-Twist/main/assets/snake-preview.gif)
 
 🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
 
@@ -78,6 +80,8 @@ Features:
 - Semantic search for accurate question-answer retrieval  
 - Fast and lightweight with vector database support  
 - Interactive UI for smooth user experience  
+
+![Chatbot Preview](https://raw.githubusercontent.com/malik8154/ML-Interview-QA-Bot/main/assets/chatbot-preview.png)
 
 🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
 
