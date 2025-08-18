@@ -91,8 +91,7 @@ A menu-driven Coffee Shop Management System built in **C++ using OOP principles*
 
 ### 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malik8154&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malik8154&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malik8154&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malik8154&layout=compact&theme=radical)
 
 ---
 
