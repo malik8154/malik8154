@@ -2,7 +2,7 @@
 
 🚀 **Aspiring AI Engineer | Turning Data into Decisions**  
 
-I design intelligent solutions that transform raw data into meaningful insights. With a strong foundation in programming, data science, and machine learning, I develop AI-driven applications that address real-world challenges. My expertise includes **Python, statistics, and advanced ML techniques**, enabling me to deliver scalable and impactful results.  
+I build intelligent solutions that transform raw data into meaningful insights. With a strong foundation in programming and a passion for problem-solving, I work with AI, ML, and software engineering to create impactful applications.  
 
 ---
 
@@ -25,9 +25,6 @@ Git • Agile methodology • Clean code structuring • Documentation standards
 
 **Ethics & Communication**  
 Responsible AI practices • Strong communication • Critical thinking • Team collaboration
-
-
-
 
 ---
 
@@ -80,6 +77,15 @@ An AI-powered chatbot designed to assist with **ML interview preparation**, buil
   - Intuitive web interface for real-time interaction
 
 🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
+
+### ☕ Coffee-Land-OOP (C++)  
+A menu-driven Coffee Shop Management System built in **C++ using OOP principles**.  
+**Features:**  
+- Menu for Coffee, Brownies, and Sandwiches with flavor choices  
+- Dynamic billing and payment validation (insufficient balance handling)  
+- Demonstrates **classes, objects, constructors, destructors, inline methods, arrays, and switch statements**  
+
+🔗 [View Repository](https://github.com/malik8154/Coffee-Land-OOP)  
 
 ---
 
