@@ -87,7 +87,7 @@ An AI-powered chatbot designed to assist with **ML interview preparation**, buil
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=malik8154&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> </p> 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=malik8154&theme=tokyonight" alt="GitHub Streak" /> </p> 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik8154&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malik8154&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" /> </p>
 
 ---
 
