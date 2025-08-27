@@ -57,6 +57,18 @@ An AI-powered chatbot designed to assist with **ML interview preparation**, buil
 
 ---
 
+**💰 Smart Solution for Finance and Investment Optimization (Full-Stack Web App)** *(Capstone Project)*  
+A comprehensive **financial management platform** tailored for individuals and small businesses to optimize budgeting, savings, and investments.  
+* **Key features include**:  
+  - Secure multi-factor user authentication  
+  - Customizable income & expense dashboard  
+  - Investment analysis with risk forecasting and inflation-awareness  
+  - Budget planning and debt management tools  
+  - Exportable financial reports (PDF/CSV) and educational modules  
+🔗 [View the project details on LinkedIn](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid/details/projects/)
+
+---
+
 **🕹️ Snake Game (Python & Pygame)**  
 Developed an interactive and visually engaging version of the classic Snake Game.  
 * Features:  
