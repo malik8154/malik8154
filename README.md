@@ -1,6 +1,5 @@
-# Hi there 👋 I'm Shahmeer Rashid  
-
-🚀 AI & ML Engineer | Transforming Data into Intelligent Solutions  
+# 👨‍💻 Shahmeer Rashid  
+🚀 AI & Machine Learning Engineer | Turning Data into Intelligent Solutions
 
 Turning raw data into meaningful insights through **AI, ML, and software engineering**.  
 Passionate about building **intelligent, data-driven, and impactful applications**.  
@@ -47,16 +46,6 @@ Passionate about building **intelligent, data-driven, and impactful applications
 
 ### 📌 Pinned Projects  
 
-**🤖 ML Interview Q&A Bot**  
-An AI-powered chatbot designed to assist with **ML interview preparation**, built using **FAISS**, **sentence-transformers**, and **Streamlit**.  
-* Capabilities:  
-  - Semantic search using embeddings and vector databases  
-  - Accurate retrieval of answers from curated ML content  
-  - Intuitive web interface for real-time interaction  
-🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
-
----
-
 **💰 Smart Solution for Finance and Investment Optimization (Full-Stack Web App)** *(Capstone Project)*  
 A comprehensive **financial management platform** tailored for individuals and small businesses to optimize budgeting, savings, and investments.  
 * **Key features include**:  
@@ -69,6 +58,16 @@ A comprehensive **financial management platform** tailored for individuals and s
 📌 *Due to university policy, the project isn't publicly hosted on GitHub — view details on LinkedIn.* 
 
 🔗 [View the project details on LinkedIn](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid/details/projects/)
+
+---
+
+**🤖 ML Interview Q&A Bot**  
+An AI-powered chatbot designed to assist with **ML interview preparation**, built using **FAISS**, **sentence-transformers**, and **Streamlit**.  
+* Capabilities:  
+  - Semantic search using embeddings and vector databases  
+  - Accurate retrieval of answers from curated ML content  
+  - Intuitive web interface for real-time interaction  
+🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
 
 ---
 
@@ -113,8 +112,9 @@ A menu-driven Coffee Shop Management System built in **C++ using OOP principles*
 
 ### 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikmshahmeerrashid@gmail.com)  
-
+- [LinkedIn](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid)  
+- [Email](mailto:malikmshahmeerrashid@gmail.com)  
+- [GitHub](https://github.com/malik8154)  
 ---
 
 ⚡ *“AI is not only about algorithms — it’s about building systems that empower people and teams to make better decisions.”*  
