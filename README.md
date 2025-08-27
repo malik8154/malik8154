@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shahmeer Rashid  
 
-🚀 **Aspiring AI Engineer | Turning Data into Decisions**  
+🚀 AI & ML Engineer | Transforming Data into Intelligent Solutions
 
 Turning raw data into meaningful insights through AI, ML, and software engineering. Passionate about building intelligent, impactful applications.
 
