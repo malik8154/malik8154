@@ -35,10 +35,10 @@ Turning raw data into meaningful insights through AI, ML, and software engineeri
 
 ### 🔭 Current Work  
 
-- Developing **AI-driven applications** in machine learning and data science  
-- Training models for **predictive analytics, classification, and recommendation tasks**  
+- Designing and developing **AI-driven applications** in machine learning and data science  
+- Training models for **predictive analytics, classification, and recommendation systems**  
 - Practicing **end-to-end ML workflows**: data preprocessing → model development → evaluation → deployment  
-- Building an **ML Interview Q&A Bot** using FAISS, sentence-transformers, and Streamlit  
+- Building an **ML Interview Q&A Bot** using FAISS, Sentence-Transformers, and Streamlit
 
 ---
 
