@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Malik M Shahmeer Rashid  
+# Hi there 👋 I'm Shahmeer Rashid  
 
 🚀 **Aspiring AI Engineer | Turning Data into Decisions**  
 
