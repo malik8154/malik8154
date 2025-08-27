@@ -47,13 +47,7 @@ Passionate about building **intelligent, data-driven, and impactful applications
 ### 📌 Pinned Projects  
 
 **💰 Smart Solution for Finance and Investment Optimization (Full-Stack Web App)** *(Capstone Project)*  
-A comprehensive **financial management platform** tailored for individuals and small businesses to optimize budgeting, savings, and investments.  
-* **Key features include**:  
-  - Secure multi-factor user authentication  
-  - Customizable income & expense dashboard  
-  - Investment analysis with risk forecasting and inflation-awareness  
-  - Budget planning and debt management tools  
-  - Exportable financial reports (PDF/CSV) and educational modules
+A comprehensive financial management platform designed to empower users with personalized budgeting, savings optimization, investment tracking, and financial insights using advanced ML models.
 
 📌 *Due to university policy, the project isn't publicly hosted on GitHub — view details on LinkedIn.* 
 
@@ -62,32 +56,19 @@ A comprehensive **financial management platform** tailored for individuals and s
 ---
 
 **🤖 ML Interview Q&A Bot**  
-An AI-powered chatbot designed to assist with **ML interview preparation**, built using **FAISS**, **sentence-transformers**, and **Streamlit**.  
-* Capabilities:  
-  - Semantic search using embeddings and vector databases  
-  - Accurate retrieval of answers from curated ML content  
-  - Intuitive web interface for real-time interaction  
+An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers, and Streamlit for real-time question answering and context retrieval.
+
 🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
 
 ---
 
-**🕹️ Snake Game (Python & Pygame)**  
-Developed an interactive and visually engaging version of the classic Snake Game.  
-* Features:  
-  - Dynamic score tracking and collision detection  
-  - Smooth gameplay and responsive controls  
-  - Customizable game elements for enhanced user experience  
-🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
+**Other Projects**  
 
----
-
-**☕ Coffee-Land-OOP (C++)**  
-A menu-driven Coffee Shop Management System built in **C++ using OOP principles**.  
-* Features:  
-  - Menu for Coffee, Brownies, and Sandwiches with flavor choices  
-  - Dynamic billing and payment validation (insufficient balance handling)  
-  - Demonstrates **classes, objects, constructors, destructors, inline methods, arrays, and switch statements**  
-🔗 [View Repository](https://github.com/malik8154/Coffee-Land-OOP)  
+Snake Game (Python – Pygame) – A classic Snake game developed with Python’s Pygame library, featuring dynamic gameplay and score tracking. 🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
+Coffee Land (C++ – OOP) – Object-oriented coffee shop application with menu handling, billing system, and customer interaction. 🔗 [View Repository](https://github.com/malik8154/Coffee-Land-OOP) 
+Mathematics Quiz System (Assembly) – Quiz game with score tracking. 🔗 [View Repository](https://github.com/malik8154/ASSEMBLY-MATHEMATICS-QUIZ-SYSTEM)
+Automatic Irrigation System (Arduino) – Smart soil-moisture–based irrigation.
+Water Level Indicator (Circuit Design) – Multi-level indicator with buzzer alert.
 
 ---
 
