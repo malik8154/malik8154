@@ -98,8 +98,7 @@ A menu-driven Coffee Shop Management System built in **C++ using OOP principles*
 
 ### 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikmshahmeerrashid@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:malikmshahmeerrashid@gmail.com)  
 
 ---
 
