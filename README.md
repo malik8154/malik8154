@@ -29,8 +29,7 @@ Turning raw data into meaningful insights through AI, ML, and software engineeri
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-5A9?logo=python&logoColor=white)  
 
 **Development Tools & Practices**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?
-logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
