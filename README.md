@@ -2,7 +2,7 @@
 
 🚀 **Aspiring AI Engineer | Turning Data into Decisions**  
 
-I build intelligent solutions that transform raw data into meaningful insights. With a strong foundation in programming and a passion for problem-solving, I work with AI, ML, and software engineering to create impactful applications.  
+Turning raw data into meaningful insights through AI, ML, and software engineering. Passionate about building intelligent, impactful applications.
 
 ---
 
