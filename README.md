@@ -91,9 +91,10 @@ An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers,
 
 ### 📫 Connect with Me  
 
-- [LinkedIn](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid)  
-- [Email](mailto:malikmshahmeerrashid@gmail.com)  
-- [GitHub](https://github.com/malik8154)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malik8154)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
+
 ---
 
 ⚡ *“AI is not only about algorithms — it’s about building systems that empower people and teams to make better decisions.”*  
