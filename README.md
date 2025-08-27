@@ -18,14 +18,14 @@ Passionate about building **intelligent, data-driven, and impactful applications
 **Machine Learning & AI**  
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154D2E?logo=python&logoColor=white)  
 
-**Databases & Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white)  
+**Databases & Deployment**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 
 **Data Visualization**  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-5A9?logo=python&logoColor=white)  
 
 **Development Tools & Practices**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)  
 
 ---
 
@@ -49,11 +49,10 @@ Passionate about building **intelligent, data-driven, and impactful applications
 
 ### 💬 Ask Me About  
 
-- Python for data science  
-- Data preprocessing & visualization  
-- NLP & Computer Vision fundamentals  
-- Game development with Python (Pygame)  
-- Preparing repositories for AI readiness  
+- **Python for Data Science** and automation  
+- **Data Preprocessing & Visualization** techniques  
+- **NLP & Computer Vision** fundamentals  
+- **Best practices for AI-ready repositories**  
 
 ---
 
