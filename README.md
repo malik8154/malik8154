@@ -23,9 +23,6 @@ I build intelligent solutions that transform raw data into meaningful insights. 
 **Development Tools & Practices**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-**Ethics & Communication**  
-Responsible AI practices • Strong communication • Critical thinking • Team collaboration
-
 ---
 
 ### 🔭 Current Work  
