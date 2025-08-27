@@ -58,17 +58,6 @@ Responsible AI practices • Strong communication • Critical thinking • Team
 
 ### 📌 Pinned Projects  
 
-**🕹️ Snake Game (Python & Pygame)**  
-Developed an interactive and visually engaging version of the classic Snake Game.  
-* Features:  
-  - Dynamic score tracking and collision detection  
-  - Smooth gameplay and responsive controls  
-  - Customizable game elements for enhanced user experience  
-
-🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
-
----
-
 **🤖 ML Interview Q&A Bot**  
 An AI-powered chatbot designed to assist with **ML interview preparation**, built using **FAISS**, **sentence-transformers**, and **Streamlit**.  
 * Capabilities:  
@@ -77,6 +66,17 @@ An AI-powered chatbot designed to assist with **ML interview preparation**, buil
   - Intuitive web interface for real-time interaction
 
 🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
+
+---
+
+**🕹️ Snake Game (Python & Pygame)**  
+Developed an interactive and visually engaging version of the classic Snake Game.  
+* Features:  
+  - Dynamic score tracking and collision detection  
+  - Smooth gameplay and responsive controls  
+  - Customizable game elements for enhanced user experience  
+
+🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
 
 ### ☕ Coffee-Land-OOP (C++)  
 A menu-driven Coffee Shop Management System built in **C++ using OOP principles**.  
