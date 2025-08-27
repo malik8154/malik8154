@@ -65,7 +65,9 @@ A comprehensive **financial management platform** tailored for individuals and s
   - Investment analysis with risk forecasting and inflation-awareness  
   - Budget planning and debt management tools  
   - Exportable financial reports (PDF/CSV) and educational modules
+
 📌 *Due to university policy, the project isn't publicly hosted on GitHub — view details on LinkedIn.* 
+
 🔗 [View the project details on LinkedIn](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid/details/projects/)
 
 ---
