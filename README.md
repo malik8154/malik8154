@@ -7,6 +7,22 @@ Passionate about building **intelligent, data-driven, and impactful applications
 
 ---
 
+### 🔭 Current Work  
+- Designing and developing **AI-powered applications** in machine learning and data science  
+- Training models for **predictive analytics, classification, and recommendation systems**  
+- Implementing **end-to-end ML workflows**: data preprocessing → model development → evaluation → deployment  
+- Building an **ML Interview Q&A Bot** using FAISS, Sentence-Transformers, and Streamlit  
+
+---
+
+### 🌱 Learning & Growth  
+- Strengthening understanding of **AI & ML fundamentals** (Supervised & Unsupervised Learning)  
+- Exploring **Deep Learning frameworks** (TensorFlow, PyTorch)  
+- Gaining hands-on experience in **Data Engineering & Backend Integration** for AI systems  
+- Experimenting with **Semantic Search, Embeddings, and Vector Databases**  
+
+---
+
 ### 🛠️ Skills & Expertise  
 
 **Programming & Scripting**  
@@ -29,33 +45,6 @@ Passionate about building **intelligent, data-driven, and impactful applications
 
 ---
 
-### 🔭 Current Work  
-
-- Designing and developing **AI-powered applications** in machine learning and data science  
-- Training models for **predictive analytics, classification, and recommendation systems**  
-- Implementing **end-to-end ML workflows**: data preprocessing → model development → evaluation → deployment  
-- Building an **ML Interview Q&A Bot** using FAISS, Sentence-Transformers, and Streamlit  
-
----
-
-### 🌱 Learning & Growth  
-
-- Strengthening understanding of **AI & ML fundamentals** (Supervised & Unsupervised Learning)  
-- Exploring **Deep Learning frameworks** (TensorFlow, PyTorch)  
-- Gaining hands-on experience in **Data Engineering & Backend Integration** for AI systems  
-- Experimenting with **Semantic Search, Embeddings, and Vector Databases**  
-
----
-
-### 💬 Ask Me About  
-
-- **Python for Data Science** and automation  
-- **Data Preprocessing & Visualization** techniques  
-- **NLP & Computer Vision** fundamentals  
-- **Best practices for AI-ready repositories**  
-
----
-
 ### 📌 Pinned Projects  
 
 **🤖 ML Interview Q&A Bot**  
@@ -63,8 +52,7 @@ An AI-powered chatbot designed to assist with **ML interview preparation**, buil
 * Capabilities:  
   - Semantic search using embeddings and vector databases  
   - Accurate retrieval of answers from curated ML content  
-  - Intuitive web interface for real-time interaction
-
+  - Intuitive web interface for real-time interaction  
 🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
 
 ---
@@ -75,28 +63,35 @@ Developed an interactive and visually engaging version of the classic Snake Game
   - Dynamic score tracking and collision detection  
   - Smooth gameplay and responsive controls  
   - Customizable game elements for enhanced user experience  
-
 🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
 
-### ☕ Coffee-Land-OOP (C++)  
-A menu-driven Coffee Shop Management System built in **C++ using OOP principles**.  
-**Features:**  
-- Menu for Coffee, Brownies, and Sandwiches with flavor choices  
-- Dynamic billing and payment validation (insufficient balance handling)  
-- Demonstrates **classes, objects, constructors, destructors, inline methods, arrays, and switch statements**  
+---
 
+**☕ Coffee-Land-OOP (C++)**  
+A menu-driven Coffee Shop Management System built in **C++ using OOP principles**.  
+* Features:  
+  - Menu for Coffee, Brownies, and Sandwiches with flavor choices  
+  - Dynamic billing and payment validation (insufficient balance handling)  
+  - Demonstrates **classes, objects, constructors, destructors, inline methods, arrays, and switch statements**  
 🔗 [View Repository](https://github.com/malik8154/Coffee-Land-OOP)  
 
 ---
 
 ### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malik8154&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malik8154&layout=compact&theme=radical)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malik8154&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malik8154&layout=compact&theme=radical)
+---
+
+### 💬 Ask Me About  
+- **Python for Data Science** and automation  
+- **Data Preprocessing & Visualization** techniques  
+- **NLP & Computer Vision** fundamentals  
+- **Best practices for AI-ready repositories**  
 
 ---
 
 ### 📫 Connect  
-
 - LinkedIn: [linkedin.com/in/malik-muhammad-shahmeer-rashid](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid)  
 - Email: [malikmshahmeerrashid@gmail.com](mailto:malikmshahmeerrashid@gmail.com)  
 - GitHub: [github.com/malik8154](https://github.com/malik8154)  
