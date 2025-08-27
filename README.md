@@ -9,22 +9,29 @@ Turning raw data into meaningful insights through AI, ML, and software engineeri
 ### 🛠️ Skills & Expertise  
 
 **Programming & Scripting** 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
 
 **Web Development**  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
 
 **Machine Learning & AI**  
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-154D2E?logo=python&logoColor=white)  
 
 **Databases & Tools**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white)  
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?
+logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white)  
 
 **Data Visualization**  
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-5A9?logo=python&logoColor=white)  
 
 **Development Tools & Practices**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?
+logo=visualstudiocode&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 ---
 
