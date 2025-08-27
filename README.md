@@ -22,8 +22,7 @@ Turning raw data into meaningful insights through AI, ML, and software engineeri
 
 **Databases & Tools**  
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?
-logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-239120?logo=scrumalliance&logoColor=white)
 
 **Data Visualization**  
 
