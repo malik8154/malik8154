@@ -64,7 +64,7 @@ An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers,
 
 **Other Projects**  
 
-- Snake Game (Python – Pygame) – A classic Snake game developed with Python’s Pygame library, featuring dynamic gameplay and score tracking. 🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
+- Snake Game (Python) – A classic Snake game developed with Python’s Pygame library, featuring dynamic gameplay and score tracking. 🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
 - Coffee Land (C++) – A coffee shop application with menu handling, billing system, and customer interaction. 🔗 [View Repository](https://github.com/malik8154/Coffee-Land-OOP) 
 - Mathematics Quiz System (Assembly) – Quiz game with score tracking. 🔗 [View Repository](https://github.com/malik8154/ASSEMBLY-MATHEMATICS-QUIZ-SYSTEM)
 
