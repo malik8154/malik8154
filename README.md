@@ -62,6 +62,38 @@ An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers,
 
 ---
 
+## 📝 Mini Opinion Analyzer (Sentiment Analysis Project)
+
+A mini **NLP sentiment analyzer** that classifies text as **Positive, Negative, or Neutral**.  
+
+### 🔑 Key Highlights  
+
+- **Dataset**:  
+  - Positive & Negative → Taken from **NLTK’s movie_reviews** dataset  
+  - Neutral → Custom-written neutral sentences  
+
+- **Preprocessing**:  
+  - Lowercasing  
+  - Punctuation removal  
+  - Stopword removal  
+  - Tokenization  
+
+- **Feature Extraction**:  
+  - **TF-IDF Vectorization** for numerical representation of text  
+
+- **Model**:  
+  - **Logistic Regression** for sentiment classification  
+
+- **Predictions**:  
+  - Works on **short texts** like reviews or headlines  
+
+- **Visualization**:  
+  - **Matplotlib bar chart** showing classification counts  
+
+- **Outcome**:  
+  - End-to-end **NLP pipeline** covering data collection, preprocessing, feature extraction, model training, prediction, and visualization  
+
+
 **Other Projects**  
 
 - Snake Game (Python) – A classic Snake game developed with Python’s Pygame library, featuring dynamic gameplay and score tracking. 🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
