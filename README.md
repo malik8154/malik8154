@@ -62,37 +62,13 @@ An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers,
 
 ---
 
-## 📝 Mini Opinion Analyzer (Sentiment Analysis Project)
+**📝 Mini Opinion Analyzer**  
+A mini NLP tool that classifies text as **Positive, Negative, or Neutral** using TF-IDF vectorization and Logistic Regression.  
+Features preprocessing (tokenization, stopword removal), visualization with Matplotlib, and serves as a complete example of an **end-to-end sentiment analysis pipeline**.  
 
-A mini **NLP sentiment analyzer** that classifies text as **Positive, Negative, or Neutral**.  
+🔗 [View Repository](https://github.com/malik8154/Mini-Opinion-Analyzer)
 
-### 🔑 Key Highlights  
-
-- **Dataset**:  
-  - Positive & Negative → Taken from **NLTK’s movie_reviews** dataset  
-  - Neutral → Custom-written neutral sentences  
-
-- **Preprocessing**:  
-  - Lowercasing  
-  - Punctuation removal  
-  - Stopword removal  
-  - Tokenization  
-
-- **Feature Extraction**:  
-  - **TF-IDF Vectorization** for numerical representation of text  
-
-- **Model**:  
-  - **Logistic Regression** for sentiment classification  
-
-- **Predictions**:  
-  - Works on **short texts** like reviews or headlines  
-
-- **Visualization**:  
-  - **Matplotlib bar chart** showing classification counts  
-
-- **Outcome**:  
-  - End-to-end **NLP pipeline** covering data collection, preprocessing, feature extraction, model training, prediction, and visualization  
-
+---
 
 **Other Projects**  
 
