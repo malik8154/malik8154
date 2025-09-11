@@ -62,14 +62,6 @@ An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers,
 
 ---
 
-**📝 Mini Opinion Analyzer**  
-A mini NLP tool that classifies text as **Positive, Negative, or Neutral** using TF-IDF vectorization and Logistic Regression.  
-Features preprocessing (tokenization, stopword removal), visualization with Matplotlib, and serves as a complete example of an **end-to-end sentiment analysis pipeline**.  
-
-🔗 [View Repository](https://github.com/malik8154/Mini-Opinion-Analyzer)
-
----
-
 **Other Projects**  
 
 - Snake Game (Python) – A classic Snake game developed with Python’s Pygame library, featuring dynamic gameplay and score tracking. 🔗 [View Repository](https://github.com/malik8154/Snake-Game-Twist)  
