@@ -7,18 +7,20 @@ Passionate about building **intelligent, data-driven, and impactful applications
 ---
 
 ### 🔭 Current Work  
-- Designing and developing **AI-powered applications** in machine learning and data science  
-- Training models for **predictive analytics, classification, and recommendation systems**  
-- Implementing **end-to-end ML workflows**: data preprocessing → model development → evaluation → deployment  
-- Building an **ML Interview Q&A Bot** using FAISS, Sentence-Transformers, and Streamlit  
+- Developing AI-powered applications with real-world impact in computer vision, NLP, and predictive analytics
+- Building real-time ML systems for classification, object detection, and anomaly detection
+- Implementing end-to-end ML pipelines: data collection → preprocessing → modeling → deployment
+- Integrating AI models with web and mobile applications for practical usability
+- Optimizing deep learning models for performance and inference speed 
 
 ---
 
 ### 🌱 Learning & Growth  
-- Strengthening understanding of **AI & ML fundamentals** (Supervised & Unsupervised Learning)  
-- Exploring **Deep Learning frameworks** (TensorFlow, PyTorch)  
-- Gaining hands-on experience in **Data Engineering & Backend Integration** for AI systems  
-- Experimenting with **Semantic Search, Embeddings, and Vector Databases**  
+- Exploring advanced Deep Learning architectures (CNNs, Transformers, LSTMs)
+- Enhancing skills in real-time computer vision and object detection frameworks
+- Learning cloud deployment and MLOps practices for scalable AI systems
+- Experimenting with vector databases, semantic search, and AI-powered applications
+- Strengthening expertise in Python, TensorFlow, PyTorch, and production-ready AI pipelines 
 
 ---
 
@@ -52,6 +54,22 @@ A comprehensive financial management platform designed to empower users with per
 📌 *Due to university policy, the project isn't publicly hosted on GitHub — view details on LinkedIn.* 
 
 🔗 [View the project details on LinkedIn](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid/details/projects/)
+
+---
+
+---
+
+**🔥 Real-Time Fire Detector** *(Computer Vision Project)*  
+A **real-time fire detection system** built with **TensorFlow, Keras, and OpenCV**. Detects fire instantly from webcam or Android phone camera feeds, triggers audible alerts, and logs fire events automatically.  
+
+**Key Features:**  
+- Real-time detection with **webcam or mobile IP camera**  
+- Audible alerts and event logging (`fire_alerts.log`)  
+- Lightweight CNN model optimized for fast inference  
+
+**Repository & Model:**  
+- GitHub Repo: [RealTime-Fire-Detector](https://github.com/malik8154/RealTime-Fire-Detector)  
+- Download trained model: [models.rar](https://github.com/malik8154/RealTime-Fire-Detector/releases/download/v1.0/models.rar)
 
 ---
 
