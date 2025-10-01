@@ -57,8 +57,6 @@ A comprehensive financial management platform designed to empower users with per
 
 ---
 
----
-
 **🔥 Real-Time Fire Detector** *(Computer Vision Project)*  
 A **real-time fire detection system** built with **TensorFlow, Keras, and OpenCV**. Detects fire instantly from webcam or Android phone camera feeds, triggers audible alerts, and logs fire events automatically.  
 
