@@ -70,7 +70,7 @@ A **real-time fire detection system** built with **TensorFlow, Keras, and OpenCV
 
 ---
 
-ML Interview Q&A Bot *(NLP Project)*
+ML Interview Q&A Bot *(NLP Project)*  
 An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers, and Streamlit for real-time question answering and context retrieval.
 
 🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
