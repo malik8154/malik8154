@@ -1,12 +1,12 @@
-# 👨‍💻 Shahmeer Rashid  
-🚀 AI & Machine Learning Engineer | Turning Data into Intelligent Solutions
+# Shahmeer Rashid  
+AI & Machine Learning Engineer | Turning Data into Intelligent Solutions
 
 Turning raw data into meaningful insights through **AI, ML, and software engineering**.  
 Passionate about building **intelligent, data-driven, and impactful applications**.  
 
 ---
 
-### 🔭 Current Work  
+### Current Work  
 - Developing AI-powered applications with real-world impact in computer vision, NLP, and predictive analytics
 - Building real-time ML systems for classification, object detection, and anomaly detection
 - Implementing end-to-end ML pipelines: data collection → preprocessing → modeling → deployment
@@ -15,7 +15,7 @@ Passionate about building **intelligent, data-driven, and impactful applications
 
 ---
 
-### 🌱 Learning & Growth  
+### Learning & Growth  
 - Exploring advanced Deep Learning architectures (CNNs, Transformers, LSTMs)
 - Enhancing skills in real-time computer vision and object detection frameworks
 - Learning cloud deployment and MLOps practices for scalable AI systems
@@ -24,7 +24,7 @@ Passionate about building **intelligent, data-driven, and impactful applications
 
 ---
 
-### 🛠️ Skills & Expertise  
+### Skills & Expertise  
 
 **Programming & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
@@ -45,18 +45,18 @@ Passionate about building **intelligent, data-driven, and impactful applications
 
 ---
 
-### 📌 Pinned Projects  
+### Pinned Projects  
 
-**💰 Smart Solution for Finance and Investment Optimization (Full-Stack Web App)** *(Capstone Project)*  
+** Smart Solution for Finance and Investment Optimization (Full-Stack Web App)** *(Capstone Project)*  
 A comprehensive financial management platform designed to empower users with personalized budgeting, savings optimization, investment tracking, and financial insights using advanced ML models.
 
-📌 *Due to university policy, the project isn't publicly hosted on GitHub — view details on LinkedIn.* 
+*Due to university policy, the project isn't publicly hosted on GitHub — view details on LinkedIn.* 
 
-🔗 [View the project details on LinkedIn](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid/details/projects/)
+[View the project details on LinkedIn](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid/details/projects/)
 
 ---
 
-**🔥 Real-Time Fire Detector** *(Computer Vision Project)*  
+** Real-Time Fire Detector** *(Computer Vision Project)*  
 A **real-time fire detection system** built with **TensorFlow, Keras, and OpenCV**. Detects fire instantly from webcam or Android phone camera feeds, triggers audible alerts, and logs fire events automatically.  
 
 **Key Features:**  
@@ -70,7 +70,7 @@ A **real-time fire detection system** built with **TensorFlow, Keras, and OpenCV
 
 ---
 
-**🤖 ML Interview Q&A Bot**  
+** ML Interview Q&A Bot**  
 An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers, and Streamlit for real-time question answering and context retrieval.
 
 🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
@@ -85,7 +85,7 @@ An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers,
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 
 <div align="center">
 
@@ -96,7 +96,7 @@ An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers,
 
 ---
 
-### 💬 Ask Me About  
+### Ask Me About  
 - **Python for Data Science** and automation  
 - **Data Preprocessing & Visualization** techniques  
 - **NLP & Computer Vision** fundamentals  
@@ -104,7 +104,7 @@ An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers,
 
 ---
 
-### 📫 Connect with Me  
+### Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malik-muhammad-shahmeer-rashid/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malik8154)
