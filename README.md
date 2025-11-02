@@ -47,7 +47,7 @@ Passionate about building **intelligent, data-driven, and impactful applications
 
 ### Pinned Projects  
 
-** Smart Solution for Finance and Investment Optimization (Full-Stack Web App)** *(Capstone Project)*  
+Smart Solution for Finance and Investment Optimization (Full-Stack Web App) *(Capstone Project)* 
 A comprehensive financial management platform designed to empower users with personalized budgeting, savings optimization, investment tracking, and financial insights using advanced ML models.
 
 *Due to university policy, the project isn't publicly hosted on GitHub — view details on LinkedIn.* 
@@ -56,7 +56,7 @@ A comprehensive financial management platform designed to empower users with per
 
 ---
 
-** Real-Time Fire Detector** *(Computer Vision Project)*  
+Real-Time Fire Detector *(Computer Vision Project)*  
 A **real-time fire detection system** built with **TensorFlow, Keras, and OpenCV**. Detects fire instantly from webcam or Android phone camera feeds, triggers audible alerts, and logs fire events automatically.  
 
 **Key Features:**  
@@ -70,7 +70,7 @@ A **real-time fire detection system** built with **TensorFlow, Keras, and OpenCV
 
 ---
 
-** ML Interview Q&A Bot**  
+ML Interview Q&A Bot
 An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers, and Streamlit for real-time question answering and context retrieval.
 
 🔗 [View Repository](https://github.com/malik8154/ML-Interview-QA-Bot)  
