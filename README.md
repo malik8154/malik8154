@@ -24,7 +24,7 @@ Passionate about building **intelligent, data-driven, and impactful applications
 
 ---
 
-### Skills & Expertise  
+### 🛠️ Skills & Expertise  
 
 **Programming & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
