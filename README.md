@@ -85,17 +85,6 @@ An AI-powered Q&A bot for interview preparation, leveraging FAISS, Transformers,
 
 ---
 
-### GitHub Stats  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malik8154&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malik8154&layout=compact&theme=radical)  
-
-</div>
-
----
-
 ### Ask Me About  
 - **Python for Data Science** and automation  
 - **Data Preprocessing & Visualization** techniques  
